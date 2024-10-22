@@ -1,0 +1,748 @@
+dump.bin 536 KB
+
+CodePath: dump.bin
+是否测试内存查杀 (任意字符Yes/回车No): 4
+Testing length: 274432
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\NIdTeSIdUB.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\bSIdBWZJeI.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 137216
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\TkbLLCOsGK.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\vERLvfLDaz.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 68608
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\JGxVrYdgVC.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\DDrYNQWpkP.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 34304
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\CsUzXDpEKk.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\mKRYeUpmSy.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 17152
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ZObhmYhdXt.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\WqDVFFyczT.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 8576
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\gFDmCBnZzD.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\SpYchZgILL.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\OquxXEAidw.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\ihcMfctVZR.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\wbPHiLpBDx.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\GbORUUBZTk.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\zmYdojhLvv.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\PkdIBhWOsw.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\APuKdnYPLd.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\rFVPTkyrhV.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\GrBJrDYmjd.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\mImnChrWGa.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\KraXPLNnrK.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\uuKWFyvtWQ.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\WzmtdVRsSK.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\wMUUulfYJg.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 134
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\DkZzdoxqod.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\gwZAXMZTwI.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 67
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\UXLPqFvRJR.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\JcMEOkDJfK.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 67
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\hRoMWZtwFa.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\gdoSIspvjc.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 101
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\EMuwUSRoSl.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\cdVmYOlSFH.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 84
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\vHFRqwKTAZ.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\IhDbZAwXzc.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 76
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\vtGfOEKqrf.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\LSrDenUOaJ.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 72
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\WBxGxTAayk.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\LCTUZNhREu.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 74
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\PHxcWRDIOT.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\JyWnNHDLiu.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 75
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\PatXnkOLRl.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\xNgBBgASqE.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 100
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\TewUNXNRyD.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\HGqHzEbfXp.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 83
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\wzcUlQkWlm.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\zYAUhcxPHa.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 91
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\dOgkMowVBm.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\LVeqPaOBnG.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 87
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\joZoyyWnRt.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\AjONFgKqwJ.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 85
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\UprXRCGhOb.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\wllyqfqBJg.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 86
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\uWQnCZkCEu.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\TqMbyjjXvi.exe
+是否被查杀(任意字符Yes/回车No): 
+[+] Signature: b'\x03\xd1\xc1\xc8\r\x8b\xceD3\xf8D\x03\xc2A\x0b\xce#\xcfE\x03\xd8A\x8b\xc6A\x8b\xd23\xd3'
+[+] Save to UlvAVFvfiT.bin
+Testing length: 134
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\NNCcrpFYJX.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\RfjFPFXrNC.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\OYIJXOpCIk.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\QMRbkKWIcH.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\tPiYGLZqYX.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\gNrWmYityu.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\bQOkHBklhx.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\yfPUrEsLsx.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\libXMrlONh.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\ShswZzjGPW.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\OHkkrTAdgl.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\UpnWDKOMlO.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\crlpvfDRWs.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\xPrntuckpW.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\IixzorAziT.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\DgfVjYxZDm.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\IDgcoCcdAV.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\GZcceErLnf.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\piwMHMfZpC.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\ymoPPMLHhJ.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 134
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ZTKChGOrXo.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\SGaVOqMYBB.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 67
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\lHdMwCAqzJ.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\SejSwWlZJa.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 67
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\wlfbkwSTgI.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\IboljOsJvS.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 33
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\IZOhCMBcYh.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\iyHHLkJGLk.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 34
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\rjjFDtfwXM.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\kbiLalSAHm.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 51
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\UsCKNSATOm.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\ufPVpeZttg.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 43
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\YGljvVUOlm.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\CJRicjblXr.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 39
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\QZTAdOOYxR.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\YEKUsRXdLj.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 37
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\bdvrsBJGQO.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\uXHqhtBZlC.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 36
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\lNMBqJcdFT.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\kduEBZMnGG.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 50
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ALXoGtuMSI.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\YbUyjVybeL.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 58
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\HvTVpuqaSl.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\iiOogEiuwM.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 62
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\CssGAJeWhZ.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\lmSIWqDmmD.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 60
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ApCcqrcAGX.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\tCUhoIwiYV.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 59
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\COJoNUHBvH.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\jSkIsZfXJu.exe
+是否被查杀(任意字符Yes/回车No): 4
+[+] Signature: b'\x03\xd1\xc1\xc8\r\x8b\xceD3\xf8D\x03\xc2A\x0b\xce#\xcfE\x03\xd8A\x8b\xc6A\x8b\xd23\xd3'
+[+] Save to IAsBvVbXoh.bin
+Testing length: 134
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\RXsVEOKRve.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\nFQxJvtoMD.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 8576
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\SMZZrYhURm.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\pmrobwGBPp.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 17152
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\dZngpBmzXH.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\UsfxyGffWs.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 34304
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\sKrouxQmGK.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\BSfJFRMsbT.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 17152
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\rVyQLWfcXn.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\phHuSbHTue.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 17152
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\MzHPoPqEhz.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\RHqrbhSeRP.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 8576
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\DxJWwfDuhT.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\qQTCmPcklm.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 8576
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\BeJuauxTdj.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\KUZIpjNvcL.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\iplgunqCnZ.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\CmAhZLHhYo.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\lRCocFOVCv.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\lWpjnzMWpy.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\oCMIBUZlFF.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\qsqDLVmdef.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\JgrDzgCtbB.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\FXLoLUudND.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\xoFgDTQlpX.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\wpixELhcAm.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\xxnAgdGOZm.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\bDzNARiyOV.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\FEtsFyOGFZ.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\EagjNyFztH.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 134
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\DVsOmvsDor.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\sbFonuvHgG.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 134
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\QcyczybeEJ.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\vlpuiRfrUl.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 201
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\tJsIinwIhm.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\twhWQknAuB.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 168
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\bdKthgVsAc.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\FuUfmxHloy.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 151
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\lXukHsYUuy.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\PsQcDdXXbD.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 143
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\CONLJXYXQR.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\rLsZgwBIrU.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 147
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\TEvXYpjzAp.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\EzOCcpxaUN.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 149
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\tDdodBNZuE.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\JaOQZWFLtj.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 148
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\kJiVBxZyAt.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\HDeCOKKNQM.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 201
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\fTJxjpVaJL.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\BgyVIupARU.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 167
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\lFDWycOmrd.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\MCLhirEIJE.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 150
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ZpYmYiREFP.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\OPXGYfhJAN.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 142
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\EPaPGySUxi.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\RkDYxmckGf.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 146
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\jjcTdZJwOE.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\dcumyGETTh.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 148
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\iCoiDDjQmD.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\baYCOXdOvJ.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 147
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\cjKFoZlgoc.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\UFIhkpRreQ.exe
+是否被查杀(任意字符Yes/回车No): 4
+[+] Signature: b'I\x8b\xc1I\xff\xc1\x83\xe0\x03B\x8a\x04\x18B2\x04\x01A\x88\x00I\xff\xc0I\xff\xcau\xe4'
+[+] Save to RtlBKBOQdq.bin
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\HxtVGqmNIp.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\YZMSTdEIpl.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\XIlwqxufLY.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\LWsncVIcyW.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\JHbvFOwdKY.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\SSJBqRKuhE.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 68608
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\GisgenKCds.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\DJRiUBtWZF.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 34304
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\HPqeayVsYB.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\KASiTUIOVB.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 17152
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\rAYluxwRAu.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\TrdEkUoMOw.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 8576
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\jNwvMvcuFN.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\wdKbQKbszn.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\aEafjepSoM.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\IizdyWlHBq.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\wwZMhQOODf.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\OUTZQAcLwG.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\KqjPXBmEXE.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\JMOcZFtlme.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\FxsRJIAaKi.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\obIjqbSTFV.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ZjSJNeTAFq.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\QsfrclTSgq.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\rZiLZmuGQq.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\vhwTBNWYaI.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 134
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ItVgOAGQvu.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\brRgIoKWEk.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 134
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\cWKDBAOFrW.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\JslzXCYfNE.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 67
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\zqpbvaLXJe.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\yHfOvQFurJ.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 33
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\QXeowGkMbL.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\nFDiKdKiQM.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 34
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\wpbyweWruv.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\rFfIERfbwd.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 51
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\xbuEEnQywO.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\LYzXlnaxaG.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 43
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\CcOLrxZqNY.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\XttDNZEEop.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 47
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\uHrBhSQfpU.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\ocuFGIKLJv.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 49
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\WaCoaJOtOv.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\tywLGWnFxO.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 48
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\PiCJieBxRn.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\yRKweWFGTf.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 50
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\AKdZxxoUcm.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\EFMlYTxGPg.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 58
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\cUwlkgmkix.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\pcZTlDQXsb.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 54
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\WDFrYIJDuk.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\xFlHJxUMbp.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 52
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\srAxjVSuEa.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\ezsEWFgCga.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 53
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\IclQGUzmIe.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\oJcGYFlRuE.exe
+是否被查杀(任意字符Yes/回车No): 
+[+] Signature: b'\x81\xfa\x00\xc8\x00\x00|\x1c\xb8MZ\x00\x00f9\x01u\x12\x81\xb9\xfc\x03\x00\x00\xf4\xf4\xf4\xf4u\x06\xb8\x01\x00\x00\x00\xc3'
+[+] Save to MzNNtYOVTY.bin
+Testing length: 67
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\oCvUcrZfrs.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\APtNaIDOqJ.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\AYxmOinImG.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\XOiAqrPEva.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\QfUuSDPaej.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\lIBeKrzqXx.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\FHbKMcfZZy.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\QZSVsnZMQL.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\kmUVTmPDsp.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\JbtEutMTkD.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 8576
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\HAhpSyBgQl.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\VpDTQoHwcx.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\zTxREfTXIL.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\ElQqXyCqwa.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\PUvmgGjKGX.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\YAhwhHThXI.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\eQTyrzPnEi.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\mybgrbmqao.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\HNjyKoIWHT.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\BXySnoQumS.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\TMTTRtXUnv.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\XSvAqsqCdN.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\CKAwTboPSO.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\WUrveNPhAW.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\TDDxYZPmot.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\SDHkznmlRY.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\lhYhfnYOIX.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\fkQJNqEFaM.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 402
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\iCaayOEUzR.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\gqZZQqBhAC.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 469
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\qwgtoLDmzH.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\XXOuHupQCn.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 436
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\RPDxFJKOkz.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\gsAEfxBUNN.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 453
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\iDxxOiHFrp.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\XUVolzXyzS.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 445
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\pgiriIfjWv.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\DORHcpoFYH.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 441
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\apyPuDWCYj.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\zEeDApWJqa.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 443
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\KcdkTUBAsh.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\EKKQHhBCmY.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 442
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\cOgeuEAQwR.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\LCSAAkodrM.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 402
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\uEwCyZoAzv.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\aDhYgiZINp.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 335
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\VVrAQOhUpd.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\baWEnKGIMy.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 301
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\uRPwksXESV.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\lhoawjfmdr.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 284
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\hMMGCbCgsw.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\xJLvSqkytV.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 276
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\bHVFdysmwi.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\HSinqvxFDK.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 280
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\TJtJwBoxBV.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\QOkAiizrUC.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 278
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\frKCfEStsE.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\aRExteScTl.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 277
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\jhjZfUvhSH.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\SXgyLywnJn.exe
+是否被查杀(任意字符Yes/回车No): 4
+[+] Signature: b'H\x83\xf8\x04s\x043\xc0\xeb\x15H\x8bA\x08\x8b\x08\xff\x15}\x9d\x01\x00H\x83C\x08\x04\x83C\x10\xfcH\x83\xc4 [\xc3\xcc\xcc\x8bA\x10L\x8bI\x08L\x8b\xc1;\xc2}\x033\xc0\xc3+\xc2Hc\xcaI\x03\xc9A\x89@\x10I\x8b\xc1I\x89H\x08\xc3\xcc\xcc\xcc@SH\x83\xec0H\x8b\xdaH\x8b\xd1H\x8dL$ \xe8"\xff\xff\xff\x0f\x10\x00\xf3\x0f\x7fD$ \x8bD$(H\x85\xdbt\x02\x89\x03\xf7\xd8H\x1b\xc0H#D$ H\x83\xc40[\xc3\xcc\xcc@SH\x83\xec HcA\x10H\x8b\xd9H\x83\xf8\x02s\x043\xc0\xeb\x19H\x8bA\x08\x0f\xb7\x08\xff\x15\x94\x9c\x01\x00H\x83C\x08\x02\x83C\x10\xfe'
+[+] Save to aNTMBpwPQP.bin
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\fyfmGFZsFi.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\MKuisliRSV.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\pGPSCkjrGZ.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\jBgDzOzhcW.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 17152
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\bQEvMXHlIe.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\mZXrLkCFgd.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 34304
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\qAomqDZAwp.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\xyNmCYsUZi.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 137216
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\JyUawTTvPb.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\gjTuwaXOad.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 68608
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ZaJJCsoZsM.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\lozTLRWhRf.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 34304
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\FeyPKpZMkE.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\eExnVAePsp.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 34304
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\JmMXVXoRIz.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\lAoZAlQeuY.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 17152
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ombhERLxKK.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\rWAvNWwDKJ.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 8576
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\XQrRlIFzEa.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\bOgqLNxHZI.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 8576
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\pQiFsIrlmi.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\nhgXEtthHt.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\kgAyIfcpNq.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\pLnfygHaXs.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 4288
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\Lulkfoofnp.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\DuPGplrvCX.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\TIRzOwZKgV.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\NSADksPBYU.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ASNURQhBLt.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\JNnsVtpcIj.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 1072
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\dOTOIpVDMD.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\tsnkGOgynR.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\XuxSqNgyof.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\zkWyHUAuXw.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 536
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\UxUPcPLvDV.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\rDoRhMbGvN.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\OoOdcZholy.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\WIGVPFthwk.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 268
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\eVojdqRatb.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\pioKHNdlXh.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 402
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\UuDtzQckjw.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\xRZbZCLTBM.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 335
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\aLQhVwoorN.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\vANlLmBGhj.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 302
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\FWNKFZLMWy.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\KPiKcqCiYS.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 319
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\McozhaLGMd.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\UQGjNOVRch.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 327
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ESnRnCzUol.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\MIByEjTBDG.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 323
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\cDRVQhqnbg.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\SLhfergiRf.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 321
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\AfIIkPiTYo.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\VEfDpMMLOV.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 320
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ptIrIHiXkH.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\HqrlDSckUa.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 402
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\NFwpqoqVVX.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\ScdyVchrEg.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 469
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\LseYTSfSMF.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\nqQipnBYoZ.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 502
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\nLsdiYVcbg.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\cDJBzEQpEh.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 519
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\LOzdVAdwZZ.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\EkglxpUIug.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 527
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\vRyhUqyxmi.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\VIEWkkxduK.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 523
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\sPjDmGdeBk.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\tUtxhIJsqH.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 521
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\JuDovZFiCg.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\DoBAnJisSy.exe
+是否被查杀(任意字符Yes/回车No): 4
+Testing length: 520
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\fMtQHjMzzr.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\lGJlUVlrAI.exe
+是否被查杀(任意字符Yes/回车No): 4
+[+] Signature: b'%s as %s\\%s: %d\x00rb\x00\x00%u\x00\x00%s\\%s\x00\x00\x00.\\*\x00\\*\x00\x00D\t0\t%02d/%02d/%02d %02d:%02d:%02d\t%s\n\x00\x00\x00F\t%I64d\t%02d/%02d/%02d %02d:%02d:%02d\t%s\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00ntdll\x00\x00\x00\x00\x00\x00\x00NtMapViewOfSection\x00\x00\x00\x00\x00\x00ntdll.dll\x00\x00\x00\x00\x00\x00\x00RtlCreateUserThread\x00\x00\x00\x00\x00process\x00%d\t%d\t%s'
+[+] Save to jlvJcZLJCu.bin
+Testing length: 2144
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\AVBKKGjVuA.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\KBgqHueFHn.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 17152
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\cOZfCwzDVb.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\OkMryBhZnG.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 68608
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\zjsSHVPbwW.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\RGCQDsaBqv.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 274432
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\ysfQZIEtwd.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\MZeYdJUSiW.exe
+是否被查杀(任意字符Yes/回车No): 
+Testing length: 548254
+Testing Bin: C:\Users\Calico\Desktop\YMfXHUncCX\BcVQHXxpfI.bin
+Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\xuJWCtgKfe.exe
+是否被查杀(任意字符Yes/回车No): 
