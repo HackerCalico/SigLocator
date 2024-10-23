@@ -108,7 +108,7 @@ Testing EXE: C:\Users\Calico\Desktop\YMfXHUncCX\vERLvfLDaz.exe
 
 2.内存查杀：将一个 sleep 1 分钟的 ShellCode 与机器码拼接保存为 BIN 文件，再用一个 Loader 程序对其加载。
 
-实验证明 Loader 程序本身因为不包含特征码不会被 Kaspersky 查杀。而创建线程调用机器码时 Kaspersky 会检测内存中的机器码，如果存在特征码会清除 Loader 程序。但是不会清除 BIN 文件，证明内存特征码必须加载到内存进行测试。
+实验证明 Loader 程序本身因为不包含特征码不会被 Kaspersky 查杀。而创建线程调用机器码时 Kaspersky 会立刻检测内存中的机器码，sleep 1 分钟保证程序不会因为机器码不完整无法正常运行而退出，保证杀软有充足的扫描时间。如果存在特征码会清除 Loader 程序。但是不会清除 BIN 文件，证明内存特征码必须加载到内存进行测试。
 
 (2) 分片算法
 
