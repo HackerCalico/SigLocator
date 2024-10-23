@@ -16,6 +16,8 @@ https://github.com/HackerCalico/SigLocator
 
 <mark>先将当前项目添加至白名单，关闭所有杀软的样本提交功能，确保要测试的样本对当前主机没有危害(测试过程中可能运行)，确保只有一个杀软起作用，就可以开始了。</mark>
 
+<mark>下面是我测试 CS 特征码的操作流程(当然不仅限于 CS)：</mark>
+
 (1) 测试 Windows Defender 静态查杀特征码
 
 自行准备一份 CS Stager 的 ShellCode 二进制文件。
